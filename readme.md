@@ -47,12 +47,12 @@ PDF Verse offers a suite of free and user-friendly  PDF Editor tools to edit, co
 <br />
 
 <div>
-	<img height="50" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Git" title="Git" /> <img height="50" src="https://raw.githubusercontent.com/Hopding/pdf-lib-docs/master/assets/logo-full.svg?sanitize=true" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" title="NPM" /> <img height="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" title="GIT" /> <img height="50" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" title="Vercel" /> <img height="50" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" title="Github" /> 
+	<img height="50" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Git" title="Git" /> <img height="50" src="https://raw.githubusercontent.com/Hopding/pdf-lib-docs/master/assets/logo-full.svg?sanitize=true" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="Git" title="Git" /> <img height="50" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" title="NPM" /> <img height="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" title="GIT" /> <img height="50" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" title="Vercel" /> <img height="50" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" title="Github" />
 	</div>
 
 <br />
 
-## Introduction 
+## Introduction
 
 PDF Verse is an intuitive, powerful and fully responsive web app that provides a range of tools for editing, converting, and manipulating PDF documents. Whether you need to merge multiple PDF files, add or remove pages, compress files, or extract text using OCR technology, PDF Verse has got you covered. With a user-friendly interface and a wide range of features, PDF Verse is designed to make working with PDFs as easy and efficient as possible. Our mission is to help individuals and businesses streamline their workflows, save time, and get more done with their PDF documents. Try PDF Verse today and see how it can simplify your PDF editing and conversion needs.
 
@@ -134,7 +134,7 @@ PDF Verse is an intuitive, powerful and fully responsive web app that provides a
       <td>Convert a PDF document to a plain text file</td>
     </tr>
     <tr>
-     
+
 <tr>
   <td>Word To PDF Convert</td>
   <td>Convert a Word document to a PDF file</td>
@@ -276,7 +276,7 @@ Other details that need to be given while starting out with the project can be p
 	│	└── pdf-editor.ejs
 	│	└── split.ejs
 	└──
-	
+
 ```
 
 ### Tools Required
@@ -284,8 +284,8 @@ Other details that need to be given while starting out with the project can be p
 You would require the following tools to develop and run the project:
 
 * A text editor or an IDE (like VS Code)
-* NodeJs 
-* Git 
+* NodeJs
+* Git
 
 ### Installation 🔭
 
@@ -342,7 +342,7 @@ If you have suggestions for adding or removing projects, feel free to open an is
 
 Feel free to contact me if you come through any error or want Guide of how to learn Full stack Development. You can also contact me if you want to Hire me for Your Project or organization.
 
-<a href ="mailto:yasinn7860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href ="mailto:yasinn7860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href ="https://www.linkedin.com/in/md-yasin-ansari-92a935221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> <a href ="https://www.instagram.com/yasinn.0x/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 
 ## Like my work? 💖
